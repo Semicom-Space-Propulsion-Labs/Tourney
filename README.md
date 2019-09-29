@@ -1,4 +1,4 @@
-# tourney
+# Tourney
 The Tourney repository is the main codebase of the Semicom Launch Observation Virtual Engine (LOVE).
 
 This repository is the home project for the Semicom Propulsion Labs tourney of research based grant programs. It is a standard and specification under the Superwikia Alpha Vertical Environment's Code of Instructions (COI).
